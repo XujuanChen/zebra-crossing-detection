@@ -1,0 +1,13 @@
+path: "C:/ComputerScience/ComputerVision/ZebraCrossing/crosswalkdata/"
+train: "../train/images"
+val: "../valid//images"
+test: "../test/images"
+
+# number of class
+nc: 1
+names: ['crosswalk']
+
+# for multiple classes
+# names:
+# 0: classname1
+# 1: classname2
