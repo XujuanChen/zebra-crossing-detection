@@ -32,7 +32,7 @@ rect_man.x, rect_man.y = width/2, 450
 
 # Variables
 speed_x = 10
-score = 0
+
 def canny(image):
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     blur = cv2.GaussianBlur(gray, (5,5), 0)
