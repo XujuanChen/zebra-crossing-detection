@@ -31,7 +31,6 @@ rect_man = img_man.get_rect()
 rect_man.x, rect_man.y = width/2, 450
 
 # Variables
-global speed_x
 speed_x = 10
 
 def canny(image):
@@ -41,7 +40,6 @@ def canny(image):
     return canny
 
 def display_lines(image, lines, sensor1, sensor2, rect_man):
-    speed = speed_x
     # blank image
     line_image = np.zeros_like(image)
     longLines = []
