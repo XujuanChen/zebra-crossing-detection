@@ -15,7 +15,7 @@ GIF walkthrough
 
 Crosswalk Detection:
 
-<img src >
+<img src="object008" >
 
 Walk Simutation:
 <img src >
