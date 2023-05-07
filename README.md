@@ -18,6 +18,10 @@ Crosswalk Detection:
 <img src='object008.gif' title='Video Walkthrough' width='720px' alt='Video Walkthrough' />
 
 Walk Simutation:
-<img src >
+<img src='object010.gif' title='Video Walkthrough' width='720px' alt='Video Walkthrough' />
 
+YouTube Link for the Demo with Audio:
+
+https://youtu.be/TBEuoX-klJw
+[![IMAGE](https://img.youtube.com/vi/TBEuoX-klJw/0.jpg)](https://www.youtube.com/watch?v=TBEuoX-klJw)
 
