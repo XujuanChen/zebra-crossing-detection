@@ -15,7 +15,7 @@ GIF walkthrough
 
 Crosswalk Detection:
 
-<img src="object008" >
+<img src='object008.gif' title='Video Walkthrough' width='720px' alt='Video Walkthrough' />
 
 Walk Simutation:
 <img src >
